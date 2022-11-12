@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Professional Experience"
-    url: /experience.md  
+    url: /experience/
 
   - title: "Honors & Awards"
     url: /teaching/    
