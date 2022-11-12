@@ -1,5 +1,6 @@
 ---
 permalink: /experience/
+title: ""
 author_profile: true
 redirect_from: 
 - /exp/
