@@ -5,6 +5,12 @@ permalink: /publication/
 author_profile: true
 ---
 
+**Journal**
+- X. Tang, **W. Huo**, Y. Yuan, X. Li, L. Shi, H. Ding, J. Kurths, ["Dynamical network size estimation
+from local observations"]([https://eesling.home.ece.ust.hk/]), New Journal of Physics, vol. 22, no. 9, pp. 093031, 2020.
+
+**Conference**
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
