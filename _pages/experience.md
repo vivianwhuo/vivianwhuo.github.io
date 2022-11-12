@@ -4,6 +4,7 @@ title: "Teaching Experience"
 excerpt: "Professional Experience"
 author_profile: true
 redirect_from: 
+- /exp/
 ---
 
 **Teaching Assistant** _at HKUST_
