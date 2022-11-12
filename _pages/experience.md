@@ -14,8 +14,10 @@ redirect_from:
 - ELEC 1100 Introduction to Electro-Robot Design, *Spring 2021*
 
 **Journal Review**
+------
 Automatica
 
 **Conference Review**
+------
 IEEE Conference on Decision and Control (CDC)
 American Control Conference (ACC)
