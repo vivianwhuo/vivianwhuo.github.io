@@ -5,8 +5,8 @@ permalink: /publication/
 author_profile: true
 ---
 **Under Review**
-- W. Huo, K. F. E. Tsang, Y. Yan, K. H. Johansson, and L. Shi, "Distributed Nash Equilibrium Seeking with Stochastic Event-triggered Mechanism".
-- L. Huang, X. Chen,W. Huo, J.Wang, F. Zhang, B. Bai, L. Shi, "[Branch and Bound in Mixed Integer Linear Programming Problems: A Survey of Techniques and Trends](https://arxiv.org/abs/2111.06257)".
+- **W. Huo**, K. F. E. Tsang, Y. Yan, K. H. Johansson, and L. Shi, "Distributed Nash Equilibrium Seeking with Stochastic Event-triggered Mechanism".
+- L. Huang, X. Chen, **W. Huo**, J.Wang, F. Zhang, B. Bai, L. Shi, "[Branch and Bound in Mixed Integer Linear Programming Problems: A Survey of Techniques and Trends](https://arxiv.org/abs/2111.06257)".
 
 **Journal**
 - X. Tang, **W. Huo**, Y. Yuan, X. Li, L. Shi, H. Ding, J. Kurths, "[Dynamical Network Size Estimation
