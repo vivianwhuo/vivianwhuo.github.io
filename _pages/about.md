@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Department of Electronic and Computer Engineering, the Hong Kong University of Science and Techonolgy, supervised by [Prof. Ling Shi](https://eesling.home.ece.ust.hk/)(IEEE Fellow). My research interests include distributed algorithms, event-triggered mechanism and adaptive learning-based control. I received my B.S. degree in Electronic and Information Engineering from Huazhong University of Science and Technology in 2020.
+I am a Ph.D. candidate in Department of Electronic and Computer Engineering, the Hong Kong University of Science and Techonolgy, supervised by [Prof. Ling Shi](https://eesling.home.ece.ust.hk/) (IEEE Fellow). My research interests include distributed algorithms, event-triggered mechanism and adaptive learning-based control. I received my B.S. degree in Electronic and Information Engineering from Huazhong University of Science and Technology in 2020.
 
 <font size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;huò wěi </font>
 
