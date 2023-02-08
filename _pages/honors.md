@@ -6,6 +6,7 @@ redirect_from:
 - /hon/
 ---
 
+- Research Travel Grant, HKUST, *Dec, 2022*
 - Postgraduate Studentships, HKUST, *2020-present*
 - Honorable Mention in American Mathematical Contest In Modeling, Top 30% of the world, *2019*
 - National Scholarship, HUST, *2018*
