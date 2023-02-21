@@ -14,7 +14,7 @@ I am a Ph.D. candidate in Department of Electronic and Computer Engineering, the
 
 My Chinese name is 霍 玮.
 
-Reseach Insterests
+Research Insterests
 ======
 - Multi-agent system
 - Distributed optimization
@@ -25,7 +25,7 @@ I keep open-minded to new problem domains and look forward to academic collabora
 Email: whuoaa@connect.ust.hk
 
 
-Selected Reasearch Projects
+Selected Research Projects
 ======
 **Neural Network-based Controller for Non-cooperative Nonlinear Multi-agent systems** (Aug. 2022 -- present)
 - Adopt the primal-dual method for distributed variational generalized Nash equilibrium (v-GNE) seeking.
