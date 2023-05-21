@@ -46,9 +46,10 @@ locally observed response dynamics.
 - **Applications**: Biology; Electric power systems
 
 
-Industrial Project
+Industrial Projects
 ======
 **Ultra-Reliable and Low Latency Communications in 5G Networks** (Jan. 2022 -- present)
+
 **Learning for Improving Primal Heuristics of Mixed Integer Programming Problems** (Jan. 2021 -- Dec. 2021)
 - Propose a Bi-layer Prediction-based Reduction Branch (BP-RB) framework to speed up the process of finding a high-quality feasible solution for large-scale combinatorial optimization problems.
 - Propose a graph convolutional network (GCN)-based problem reduction method that removes unnecessary variables and constraints to significantly reduce the required memory and time.
