@@ -27,11 +27,11 @@ Email: whuoaa@connect.ust.hk
 
 Selected Research Projects
 ======
-**Neural Network-based Controller for Non-cooperative Nonlinear Multi-agent systems** (Aug. 2022 -- present)
+**Neural Network-based Controller for Non-cooperative Nonlinear Multi-agent systems** (Aug. 2022 -- Jan. 2023)
 - Adopt the primal-dual method for distributed variational generalized Nash equilibrium (v-GNE) seeking.
 - Design an adaptive radial basis neural network based on backpropagation to estimate the unknown nonlinear dynamics.
 - Design a distributed controller with the neural network-based observer.
-- Prove the exponential convergence to the v-GNE with arbitrarily small error.
+- Prove the exponential convergence to the v-GNE with arbitrarily accuracy.
 - **Applications**: Connectivity control games in multi-vehicle systems.
 
 **Stochastic Event-triggered Mechanism in Distributed Games** (Aug. 2021 -- Jan. 2022)
@@ -48,7 +48,7 @@ locally observed response dynamics.
 
 Industrial Projects
 ======
-**Ultra-Reliable and Low Latency Communications in 5G Networks** (Jan. 2022 -- present)
+**Ultra-Reliable and Low Latency Communications in 5G Networks** (Jan. 2023 -- present)
 
 **Learning for Improving Primal Heuristics of Mixed Integer Programming Problems** (Jan. 2021 -- Dec. 2021)
 - Propose a Bi-layer Prediction-based Reduction Branch (BP-RB) framework to speed up the process of finding a high-quality feasible solution for large-scale combinatorial optimization problems.
