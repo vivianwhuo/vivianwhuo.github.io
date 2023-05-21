@@ -39,15 +39,18 @@ Selected Research Projects
 - Prove the exponential convergence to the exact NE and the exclusion of Zeno behavior.
 - **Applications**: Energy-harvesting body sensor networks in Internet-of-Medical-Things (IoMT)
 
-**Learning for Improving Primal Heuristics of Mixed Integer Programming Problems** (Jan. 2021 -- Dec. 2021)
-- Propose a Bi-layer Prediction-based Reduction Branch (BP-RB) framework to speed up the process of finding a high-quality feasible solution for large-scale combinatorial optimization problems.
-- Propose a graph convolutional network (GCN)-based problem reduction method that removes unnecessary variables and constraints to significantly reduce the required memory and time.
-- Evaluate the BP-RB on representative NP-hard problems.
-- **Applications**: Resource allocation in wireless communication networks
-
 **Network Size Estimation from Local Observations** (Undergraduate Thesis, Oct. 2019 -- May. 2020)
 - Develop a data-driven algorithm to estimate the total number of nodes in a dynamical network using
 locally observed response dynamics.
 - Investigate the performance of the proposed algorithm on both linear and nonlinear networks.
 - **Applications**: Biology; Electric power systems
 
+
+Industrial Project
+======
+**Ultra-Reliable and Low Latency Communications in 5G Networks** (Jan. 2022 -- present)
+**Learning for Improving Primal Heuristics of Mixed Integer Programming Problems** (Jan. 2021 -- Dec. 2021)
+- Propose a Bi-layer Prediction-based Reduction Branch (BP-RB) framework to speed up the process of finding a high-quality feasible solution for large-scale combinatorial optimization problems.
+- Propose a graph convolutional network (GCN)-based problem reduction method that removes unnecessary variables and constraints to significantly reduce the required memory and time.
+- Evaluate the BP-RB on representative NP-hard problems.
+- **Applications**: Resource allocation in wireless communication networks
