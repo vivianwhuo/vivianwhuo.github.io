@@ -20,6 +20,7 @@ Research Insterests
 - Distributed optimization
 - Event-triggered mechanism
 - Adaptive control
+- Privacy protection
 
 I keep open-minded to new problem domains and look forward to academic collaboration. Email me if you’d like to discuss.
 Email: whuoaa@connect.ust.hk
@@ -27,11 +28,16 @@ Email: whuoaa@connect.ust.hk
 
 Selected Research Projects
 ======
-**Neural Network-based Controller for Non-cooperative Nonlinear Multi-agent systems** (Aug. 2022 -- Jan. 2023)
+**Privacy-preserving Algorithms Design in Multi-agent System** (May. 2023 -- present)
+- Utilize Laplacian noise and the robust push-pull technique to achieve convergence and differential privacy in directed networks.
+- Exploit the randomness of stochastic compression to preserve differential privacy while reducing communication costs.
+- **Applications**: Energy management in smart grids.
+
+**Neural Network-based Controller for Non-cooperative Nonlinear Multi-agent Systems** (Aug. 2022 -- Jan. 2023)
 - Adopt the primal-dual method for distributed variational generalized Nash equilibrium (v-GNE) seeking.
 - Design an adaptive radial basis neural network based on backpropagation to estimate the unknown nonlinear dynamics.
 - Design a distributed controller with the neural network-based observer.
-- Prove the exponential convergence to the v-GNE with arbitrarily accuracy.
+- Prove the exponential convergence to the v-GNE with arbitrary accuracy.
 - **Applications**: Connectivity control games in multi-vehicle systems.
 
 **Stochastic Event-triggered Mechanism in Distributed Games** (Aug. 2021 -- Jan. 2022)
