@@ -28,7 +28,7 @@ Email: whuoaa@connect.ust.hk
 
 Selected Research Projects
 ======
-**Privacy-preserving Algorithms Design in Multi-agent System** (May. 2023 -- present)
+**Privacy-preserving Algorithms Design in Multi-agent Systems** (May. 2023 -- present)
 - Utilize Laplacian noise and the robust push-pull technique to achieve convergence and differential privacy in directed networks.
 - Exploit the randomness of stochastic compression to preserve differential privacy while reducing communication costs.
 - **Applications**: Energy management in smart grids.
