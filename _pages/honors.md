@@ -6,6 +6,7 @@ redirect_from:
 - /hon/
 ---
 
+- ECE Senior TA Award, HKUST, *2023*
 - Overseas Research Awards, HKUST, *2023* 
 - Research Travel Grant, HKUST, *Dec. 2022*
 - Postgraduate Studentships, HKUST, *2020-present*
