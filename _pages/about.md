@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate in Department of Electronic and Computer Engineering, the Hong Kong University of Science and Techonolgy, supervised by [Prof. Ling Shi](https://eesling.home.ece.ust.hk/) (IEEE Fellow). I received my B.S. degree in Electronic and Information Engineering from Huazhong University of Science and Technology in 2020. From August 2023, I am a visiting student in the School of Electrical Engineering and
-Computer Science in KTH Royal Institute of Technology.
+Computer Science in KTH Royal Institute of Technology, hosted by [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/index.html) (IEEE Fellow).
 
 <font size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;huò wěi </font>
 
