@@ -4,10 +4,8 @@ title: "Publications"
 permalink: /publication/
 author_profile: true
 ---
-**Under Review**
-- **W. Huo**, K. F. E. Tsang, Y. Yan, K. H. Johansson, and L. Shi, "Distributed Nash Equilibrium Seeking with Stochastic Event-triggered Mechanism".
-
 **Journal**
+- **W. Huo**, K. F. E. Tsang, Y. Yan, K. H. Johansson, and L. Shi, "Distributed Nash Equilibrium Seeking with Stochastic Event-triggered Mechanism", accepted by Automatica.
 - **W. Huo**, L. Huang, S. Dey, L. Shi, "Neural Network-based Distributed Generalized Nash Equilibrium Seeking for Uncertain Nonlinear Multi-agent Systems", accepted by IEEE Transactions on Control of Network Systems.
 - M. Huang<sup>\*</sup>, L. Huang<sup>\*</sup>, Y. Zhong<sup>\*</sup>, H. Yang<sup>\*</sup>, X. Chen<sup>\*</sup>, **W. Huo**<sup>\*</sup>, J. Wang, F. Zhang, B. Bai, L. Shi, "MILP Acceleration: A Survey from Perspectives of Simplex Initialization and Learning-Based Branch and Bound", Journal of the Operations Research Society of China, 1-55, 2023.
 - X. Tang, **W. Huo**, Y. Yuan, X. Li, L. Shi, H. Ding, J. Kurths, "[Dynamical Network Size Estimation
