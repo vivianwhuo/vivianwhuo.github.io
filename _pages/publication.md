@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publication/
 author_profile: true
 ---
+**Under Review**
+- X. Chen, **W. Huo**, Y. Wu, S. Dey, and L. Shi, "An Efficient Distributed Nash Equilibrium Seeking with Compressed and Event-triggered Communication".
+
 **Journal**
 - **W. Huo**, K. F. E. Tsang, Y. Yan, K. H. Johansson, and L. Shi, "Distributed Nash Equilibrium Seeking with Stochastic Event-triggered Mechanism", accepted by Automatica.
 - **W. Huo**, L. Huang, S. Dey, L. Shi, "Neural Network-based Distributed Generalized Nash Equilibrium Seeking for Uncertain Nonlinear Multi-agent Systems", accepted by IEEE Transactions on Control of Network Systems.
