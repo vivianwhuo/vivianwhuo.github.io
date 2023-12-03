@@ -1,11 +1,3 @@
----
-permalink: /experience/
-title: ""
-author_profile: true
-redirect_from: 
-- /exp/
----
-
 **Teaching Assistant** _at HKUST_
 ------
 - EESM 5730 Modern Control Systems Design, *Fall 2022*
