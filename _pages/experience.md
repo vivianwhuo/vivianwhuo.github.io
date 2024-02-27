@@ -15,6 +15,8 @@ author_profile: true
 ------
 Automatica
 
+IEEE Transactions on Control of Network Systems
+
 IEEE Transactions on Network Science and Engineering
 
 **Conference Review**
