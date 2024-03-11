@@ -5,6 +5,7 @@ permalink: /publication/
 author_profile: true
 ---
 **Under Review**
+- **W. Huo**, X. Chen, L. Huang, K. H. Johansson, L. Shi, "Differentially Private Dual Gradient Tracking for Distributed Resource Allocation over Directed Networks".
 - **W. Huo**, X. Chen, K. Ding, S. Dey, L. Shi, "Compression-based Privacy Preservation for Distributed Nash Equilibrium Seeking in Aggregative Games".
 - X. Chen, **W. Huo**, Y. Wu, S. Dey, L. Shi, "An Efficient Distributed Nash Equilibrium Seeking with Compressed and Event-triggered Communication".
 
