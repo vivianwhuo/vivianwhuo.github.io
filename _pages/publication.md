@@ -5,7 +5,9 @@ permalink: /publication/
 author_profile: true
 ---
 **Under Review**
+- **W. Huo**, C. Liu, K. Ding, K. H. Johansson, L. Shi, "Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy".
 - **W. Huo**, X. Chen, L. Huang, K. H. Johansson, L. Shi, "Differentially Private Dual Gradient Tracking for Distributed Resource Allocation over Directed Networks".
+- X. Chen, **W. Huo**, K. Ding, S. Dey, L. Shi, "Communication-efficient and Differentially-private Distributed Nash Equilibrium Seeking with Linear Convergence".
 - **W. Huo**, X. Chen, K. Ding, S. Dey, L. Shi, "Compression-based Privacy Preservation for Distributed Nash Equilibrium Seeking in Aggregative Games".
 - X. Chen, **W. Huo**, Y. Wu, S. Dey, L. Shi, "An Efficient Distributed Nash Equilibrium Seeking with Compressed and Event-triggered Communication".
 
