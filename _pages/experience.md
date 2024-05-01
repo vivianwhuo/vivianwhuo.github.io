@@ -17,6 +17,8 @@ Automatica
 
 IEEE Transactions on Control of Network Systems
 
+IEEE Transactions on Cybernetics
+
 IEEE Transactions on Network Science and Engineering
 
 **Conference Review**
