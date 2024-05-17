@@ -11,7 +11,7 @@ author_profile: true
 - X. Chen, **W. Huo**, Y. Wu, S. Dey, L. Shi, "An Efficient Distributed Nash Equilibrium Seeking with Compressed and Event-triggered Communication".
 
 **Journal**
-- **W. Huo**, X. Chen, K. Ding, S. Dey, L. Shi, "Compression-based Privacy Preservation for Distributed Nash Equilibrium Seeking in Aggregative Games", accepted by IEEE Control System Letters (L-CSS).
+- **W. Huo**, X. Chen, K. Ding, S. Dey, L. Shi, "[Compression-based Privacy Preservation for Distributed Nash Equilibrium Seeking in Aggregative Games](https://doi.org/10.1109/LCSYS.2024.3402119)", IEEE Control System Letters (L-CSS).
 - **W. Huo**, K. F. E. Tsang, Y. Yan, K. H. Johansson, L. Shi, "[Distributed Nash Equilibrium Seeking with Stochastic Event-triggered Mechanism](https://www.sciencedirect.com/science/article/pii/S0005109823006556)", Automatica, 162, p.111486, 2024.
 - **W. Huo**, L. Huang, S. Dey, L. Shi, "[Neural Network-based Distributed Generalized Nash Equilibrium Seeking for Uncertain Nonlinear Multi-agent Systems](https://ieeexplore.ieee.org/document/10334027)", IEEE Transactions on Control of Network Systems.
 - M. Huang<sup>\*</sup>, L. Huang<sup>\*</sup>, Y. Zhong<sup>\*</sup>, H. Yang<sup>\*</sup>, X. Chen<sup>\*</sup>, **W. Huo**<sup>\*</sup>, J. Wang, F. Zhang, B. Bai, L. Shi, "[MILP Acceleration: A Survey from Perspectives of Simplex Initialization and Learning-Based Branch and Bound](https://link.springer.com/article/10.1007/s40305-023-00493-1)", Journal of the Operations Research Society of China, 1-55, 2023.
