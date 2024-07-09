@@ -6,6 +6,7 @@ redirect_from:
 - /hon/
 ---
 
+- RedBird Academic Excellence Award, HKUST, *2024*
 - ECE Senior TA Award, HKUST, *2023*
 - Overseas Research Awards, HKUST, *2023* 
 - Research Travel Grant, HKUST, *Dec. 2022*
