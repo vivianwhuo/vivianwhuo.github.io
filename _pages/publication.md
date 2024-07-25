@@ -19,6 +19,8 @@ author_profile: true
 from Local Observations](https://iopscience.iop.org/article/10.1088/1367-2630/abaf2f/meta)", New Journal of Physics, vol. 22, no. 9, pp. 093031, 2020.
 
 **Conference**
+-  X. Chen, **W. Huo**, K. Ding, S. Dey, L. Shi, "Communication-efficient and Differentially-private Distributed Nash Equilibrium Seeking with Linear Convergence", in the 63rd IEEE Conference on Decision and Control, 2024.
+- **W. Huo**, X. Chen, K. Ding, S. Dey, L. Shi, "Compression-based Privacy Preservation for Distributed Nash Equilibrium Seeking in Aggregative Games", in the 63rd IEEE Conference on Decision and Control, 2024.
 - L. Huang<sup>\*</sup>, X. Chen<sup>\*</sup>, **W. Huo**<sup>\*</sup>, J. Wang, F. Zhang, B. Bai, L. Shi, "[Improving Primal Heuristics
 for Mixed Integer Programming Problems based on Problem Reduction: A Learning-based Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10004252)", in the 2022 17th International Conference on Control, Automation, Robotics and Vision (ICARCV), pp. 181-186.
 
