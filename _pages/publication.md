@@ -5,6 +5,7 @@ permalink: /publication/
 author_profile: true
 ---
 **Under Review**
+- **W. Huo**, H. Yang, N. Yang, Z. Yang, J. Zhang, F. Nan, X. Chen, Y. Mao, S. Hu, P. Wang, X. Zheng, M. Zhao, L. Shi, "Recent Advances in Data-driven Intelligent Control for Wireless Communication: A Comprehensive Survey".
 - **W. Huo**, C. Liu, K. Ding, K. H. Johansson, L. Shi, "Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy".
 - **W. Huo**, X. Chen, L. Huang, K. H. Johansson, L. Shi, "Differentially Private Dual Gradient Tracking for Distributed Resource Allocation over Directed Networks".
 - X. Chen, **W. Huo**, Y. Wu, S. Dey, L. Shi, "An Efficient Distributed Nash Equilibrium Seeking with Compressed and Event-triggered Communication".
