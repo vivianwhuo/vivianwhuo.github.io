@@ -5,6 +5,7 @@ permalink: /publication/
 author_profile: true
 ---
 **Under Review**
+- X. Chen, **W. Huo**, K. Ding, S. Dey, L. Shi, "Differentially Private Distributed NE Seeking with Compressed Communication".
 - **W. Huo**, H. Yang, N. Yang, Z. Yang, J. Zhang, F. Nan, X. Chen, Y. Mao, S. Hu, P. Wang, X. Zheng, M. Zhao, L. Shi, "Recent Advances in Data-driven Intelligent Control for Wireless Communication: A Comprehensive Survey".
 - **W. Huo**, C. Liu, K. Ding, K. H. Johansson, L. Shi, "Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy".
 - **W. Huo**, X. Chen, L. Huang, K. H. Johansson, L. Shi, "Differentially Private Dual Gradient Tracking for Distributed Resource Allocation over Directed Networks".
