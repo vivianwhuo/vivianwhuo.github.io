@@ -13,6 +13,8 @@ author_profile: true
 
 **Journal Review**
 ------
+IEEE Transactions on Automatic Control
+
 Automatica
 
 IEEE Transactions on Control of Network Systems
