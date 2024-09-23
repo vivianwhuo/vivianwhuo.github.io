@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Biography"
+title: "Education"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Education
-======
+
 - Hong Kong University of Science and Technology (HKUST), Hong Kong, Sep. 2020 - Aug. 2024
   Ph.D. in the Department of Electronic and Computer Engineering, supervised by [Prof. Ling Shi](https://eesling.home.ece.ust.hk/) (IEEE Fellow).
 - KTH Royal Institute of Technology, Stockholm, Sweden, Aug. 2023 - Dec. 2023
@@ -44,3 +43,5 @@ Industrial Projects
 - Propose a graph convolutional network (GCN)-based problem reduction method that removes unnecessary variables and constraints to significantly reduce the required memory and time.
 - Evaluate the BP-RB on representative NP-hard problems.
 - **Applications**: Resource allocation in wireless communication networks
+
+
