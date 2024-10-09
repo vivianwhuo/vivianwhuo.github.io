@@ -18,7 +18,8 @@ redirect_from:
 
 Working Experience
 ======
-- Hong Kong University of Science and Technology, Hong Kong, Sep. 2024 - Nov. 2024  Postdoctoral Researcher, Department of Electronic and Computer Engineering.
+- Hong Kong University of Science and Technology, Hong Kong, Sep. 2024 - Nov. 2024           
+  Postdoctoral Researcher, Department of Electronic and Computer Engineering.
 
 
 Research Interests
