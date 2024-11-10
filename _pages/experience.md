@@ -17,11 +17,15 @@ IEEE Transactions on Automatic Control
 
 Automatica
 
+IEEE Journal on Selected Areas in Communications
+
 IEEE Transactions on Control of Network Systems
 
 IEEE Transactions on Cybernetics
 
 IEEE Transactions on Network Science and Engineering
+
+IEEE Transactions on Industrial Informatics
 
 **Conference Review**
 ------
