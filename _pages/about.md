@@ -18,8 +18,11 @@ redirect_from:
 
 Working Experience
 ======
+- Southern University of Science and Technology, Shenzhen, China, Nov. 2024           
+  Visiting Scholar, School of System Design and Intelligent Manufacturing. 
 - Hong Kong University of Science and Technology, Hong Kong, Sep. 2024 - Nov. 2024           
   Postdoctoral Researcher, Department of Electronic and Computer Engineering.
+ 
 
 
 Research Interests
