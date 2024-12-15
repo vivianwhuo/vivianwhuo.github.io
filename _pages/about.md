@@ -18,7 +18,7 @@ redirect_from:
 
 Working Experience
 ======
-- Huawei, Shanghai, China, Dec. 2024 - present
+- Huawei, Shanghai, China, Dec. 2024 - present    
   Engineer, Wireless Technology Lab, 2012.
 - Southern University of Science and Technology, Shenzhen, China, Nov. 2024           
   Visiting Scholar, School of System Design and Intelligent Manufacturing. 
