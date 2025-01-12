@@ -5,6 +5,7 @@ permalink: /publication/
 author_profile: true
 ---
 **Under Review**
+- **W. Huo**, C. Liu, K. Ding, K. H. Johansson, L. Shi, "Decentralized Optimization with Amplified Privacy via Efficient Communication".
 - C. Liu, N. Bastianello, **W. Huo**, Y. Shi, K. H. Johansson, "A Survey on Secure Decentralized Optimization and Learning".
 -  X. Chen, **W. Huo**, K. Ding, S. Dey, L. Shi, "Differentially Private Distributed NE Seeking with Compressed Communication".
 - **W. Huo**, H. Yang, N. Yang, Z. Yang, J. Zhang, F. Nan, X. Chen, Y. Mao, S. Hu, P. Wang, X. Zheng, M. Zhao, L. Shi, "Recent Advances in Data-driven Intelligent Control for Wireless Communication: A Comprehensive Survey".
