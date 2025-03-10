@@ -29,24 +29,11 @@ Working Experience
 
 Research Interests
 ======
-- Multi-agent system
+- Next Generation Core Newtorks for Agentic AI
+- LLM Agent
 - Distributed optimization
 - Communication Efficiency
-- Adaptive control
 - Privacy protection
 
 I keep open-minded to new problem domains and look forward to academic collaboration. Email me if you’d like to discuss.
-Email: eehwei@ust.hk
-
-
-Industrial Projects
-======
-**Ultra-Reliable and Low Latency Communications in 5G Networks** (Jan. 2023 -- present)
-
-**Learning for Improving Primal Heuristics of Mixed Integer Programming Problems** (Jan. 2021 -- Dec. 2021)
-- Propose a Bi-layer Prediction-based Reduction Branch (BP-RB) framework to speed up the process of finding a high-quality feasible solution for large-scale combinatorial optimization problems.
-- Propose a graph convolutional network (GCN)-based problem reduction method that removes unnecessary variables and constraints to significantly reduce the required memory and time.
-- Evaluate the BP-RB on representative NP-hard problems.
-- **Applications**: Resource allocation in wireless communication networks
-
-
+Email: huowei7@huawei.com
