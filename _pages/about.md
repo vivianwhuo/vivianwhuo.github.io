@@ -31,9 +31,9 @@ Research Interests
 ======
 - Next-generation Core Newtorks for Agentic AI
 - LLM Agent
-- Distributed optimization
+- Distributed Optimization
 - Communication Efficiency
-- Privacy protection
+- Privacy Protection
 
 I keep open-minded to new problem domains and look forward to academic collaboration. Email me if you’d like to discuss.
 Email: huowei7@huawei.com
