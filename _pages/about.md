@@ -29,7 +29,7 @@ Working Experience
 
 Research Interests
 ======
-- Next Generation Core Newtorks for Agentic AI
+- Next-generation Core Newtorks for Agentic AI
 - LLM Agent
 - Distributed optimization
 - Communication Efficiency
