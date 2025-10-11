@@ -11,7 +11,7 @@ author_profile: true
 - **W. Huo**, H. Yang, N. Yang, Z. Yang, J. Zhang, F. Nan, X. Chen, Y. Mao, S. Hu, P. Wang, X. Zheng, M. Zhao, L. Shi, "Recent Advances in Data-driven Intelligent Control for Wireless Communication: A Comprehensive Survey".
 
 **6G for Agentic AI**
-- W. Tong, **W. Huo**, T. Lejkin, J. Penhoat, C. Peng, C. Pereira, F. Wang, S. Wu, L. Yang, Y. Shi, "A-Core: A Novel Framework of Agentic AI in the 6G Core Network", accepted by WS06, IEEE International Conference on Communications, TOGC6G, 2025.
+- W. Tong, **W. Huo**, T. Lejkin, J. Penhoat, C. Peng, C. Pereira, F. Wang, S. Wu, L. Yang, Y. Shi, "[A-Core: A Novel Framework of Agentic AI in the 6G Core Network](https://ieeexplore.ieee.org/abstract/document/11162291)", WS06 IEEE ICC 2025 Workshop on Task-Oriented and Generative Communications for 6G.
 
 **Communication & Privacy in Distributed Systems**
 - **W. Huo**, C. Liu, K. Ding, K. H. Johansson, L. Shi, "[Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy](https://www.sciencedirect.com/science/article/pii/S0005109825004261)", Automatica, 183, p. 112531, 2026.
