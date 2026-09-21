@@ -18,7 +18,7 @@ redirect_from:
 
 Working Experience
 ======
-- Huawei, Dongguan, China, Aug. 2026 - present
+- Huawei, Dongguan, China, Aug. 2026 - present    
   Engineer, Computing Technology Development Dept, ICT BG. 
 - Huawei, Shanghai, China, Dec. 2024 - Jul. 2026    
   Engineer, Wireless Technology Lab, 2012.
