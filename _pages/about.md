@@ -18,7 +18,9 @@ redirect_from:
 
 Working Experience
 ======
-- Huawei, Shanghai, China, Dec. 2024 - present    
+- Huawei, Dongguan, China, Aug. 2026 - present
+  Engineer, Computing Technology Development Dept, ICT BG. 
+- Huawei, Shanghai, China, Dec. 2024 - Jul. 2026    
   Engineer, Wireless Technology Lab, 2012.
 - Southern University of Science and Technology, Shenzhen, China, Nov. 2024           
   Visiting Scholar, School of System Design and Intelligent Manufacturing. 
@@ -29,11 +31,8 @@ Working Experience
 
 Research Interests
 ======
-- Next-generation Core Newtorks for Agentic AI
-- LLM Agent
-- Distributed Optimization
-- Communication Efficiency
-- Privacy Protection
+- Quantization-aware Training
+- Multimodal LLM
 
 I keep open-minded to new problem domains and look forward to academic collaboration. Email me if you’d like to discuss.
 Email: huowei7@huawei.com
